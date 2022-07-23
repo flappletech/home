@@ -5,7 +5,7 @@ _Seperate page coming soon_
 
 ### _fPad micro out now, @ $2_
 
-The new fPad micro, starting at a low price of $2, with upgrade options making it $5, is availible to buy today. This version of an fPad mini ahd pro cameras, a redesigned exterior, and the series 3 chip. Get one today at your local flapple store, or email isaacnorthington@icloud.com
+The new fPad micro, starting at a low price of $2, with upgrade options making it $5, is availible to buy today. This version of an fPad mini ahd pro cameras, a redesigned exterior, and the series 3 chip. Get one today at your local flapple store, or email flapple today. 
 
 ### _Flapple Series 3 released at Flapple Event July_
 
@@ -18,20 +18,6 @@ Flapple released an all new line up recently, including:
  
  
  
-## [Flapple Watch](https://flapple.github.io/watch)
-
-## [FlatBook](https://flapple.com/flatbook)
-
-## [fComputers](https://flapple.com/watch)
-
-## [fPhone](https://flapple.com/watch)
-
-## [fPad](https://flapple.com/watch)
-
-## [Flapple TV](https://flapple.com/watch)
-
-## [fPods](https://flapple.com/watch)
-
 
 
 
