@@ -1,6 +1,6 @@
 # Welcome to Flapple
 
-## **[Flapple News](flappletech.github.io/news)**
+## **[Flapple News](https://flappletech.github.io/news/)**
 
  
  
