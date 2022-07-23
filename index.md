@@ -18,9 +18,9 @@ Flapple released an all new line up recently, including:
  
  
  
-## [Flapple Watch](https://flapple.com/watch)
+## [Flapple Watch](https://flapple.github.io/watch)
 
-## [FlatBook](https://flapple.com/watch)
+## [FlatBook](https://flapple.com/flatbook)
 
 ## [fComputers](https://flapple.com/watch)
 
