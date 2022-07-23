@@ -1,6 +1,6 @@
 # Welcome to Flapple
 
-## **[Flapple News](flappletech.github.io/home/news)**
+## **[Flapple News](flappletech.github.io/news)**
 _Seperate page coming soon_
 
 
