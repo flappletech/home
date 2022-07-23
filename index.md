@@ -1,7 +1,9 @@
 # Welcome to Flapple
 
-## **Flapple News**
+## **[Flapple News](flappletech.github.io/home/news)**
 _Seperate page coming soon_
+
+
 
 ### _fPad micro out now, @ $2_
 
